@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RogueArena.App", "RogueArena.App\RogueArena.App.csproj", "{488E2370-2DB3-439D-AD33-72C83E8ECBCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RogueArena.Core", "RogueArena.Core\RogueArena.Core.csproj", "{22334A2C-C6DE-47C9-8ABB-D39862295534}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{488E2370-2DB3-439D-AD33-72C83E8ECBCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{488E2370-2DB3-439D-AD33-72C83E8ECBCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{488E2370-2DB3-439D-AD33-72C83E8ECBCB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{488E2370-2DB3-439D-AD33-72C83E8ECBCB}.Debug|x64.Build.0 = Debug|Any CPU
+		{488E2370-2DB3-439D-AD33-72C83E8ECBCB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{488E2370-2DB3-439D-AD33-72C83E8ECBCB}.Debug|x86.Build.0 = Debug|Any CPU
+		{488E2370-2DB3-439D-AD33-72C83E8ECBCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{488E2370-2DB3-439D-AD33-72C83E8ECBCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{488E2370-2DB3-439D-AD33-72C83E8ECBCB}.Release|x64.ActiveCfg = Release|Any CPU
+		{488E2370-2DB3-439D-AD33-72C83E8ECBCB}.Release|x64.Build.0 = Release|Any CPU
+		{488E2370-2DB3-439D-AD33-72C83E8ECBCB}.Release|x86.ActiveCfg = Release|Any CPU
+		{488E2370-2DB3-439D-AD33-72C83E8ECBCB}.Release|x86.Build.0 = Release|Any CPU
+		{22334A2C-C6DE-47C9-8ABB-D39862295534}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22334A2C-C6DE-47C9-8ABB-D39862295534}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22334A2C-C6DE-47C9-8ABB-D39862295534}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{22334A2C-C6DE-47C9-8ABB-D39862295534}.Debug|x64.Build.0 = Debug|Any CPU
+		{22334A2C-C6DE-47C9-8ABB-D39862295534}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{22334A2C-C6DE-47C9-8ABB-D39862295534}.Debug|x86.Build.0 = Debug|Any CPU
+		{22334A2C-C6DE-47C9-8ABB-D39862295534}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22334A2C-C6DE-47C9-8ABB-D39862295534}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22334A2C-C6DE-47C9-8ABB-D39862295534}.Release|x64.ActiveCfg = Release|Any CPU
+		{22334A2C-C6DE-47C9-8ABB-D39862295534}.Release|x64.Build.0 = Release|Any CPU
+		{22334A2C-C6DE-47C9-8ABB-D39862295534}.Release|x86.ActiveCfg = Release|Any CPU
+		{22334A2C-C6DE-47C9-8ABB-D39862295534}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
